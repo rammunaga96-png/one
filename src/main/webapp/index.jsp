@@ -16,7 +16,7 @@
             --primary: #0a2540;
             --accent: #00d4ff;
             --muted: #7a7a7a;
-            --card: #ffffff;
+            --card: #ffffff;          #########################################
             --surface: #f6f9fc;
             --success: #28a745;
             --radius: 12px;
